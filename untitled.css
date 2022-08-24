@@ -1,0 +1,49 @@
+.unnamed1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+.body2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+}
+.body3PINK {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #dd0a96;
+}
+.headline {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 25px;
+	color: #dd0a96;
+}
+.headlinebold {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 21px;
+	color: #dd0a96;
+	line-height: 40px;
+}
+.body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	line-height: 20px;
+}
+.sidebarlarge {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #003366;
+	line-height: 20px;
+}
+.footer {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+	line-height: 19px;
+}
+.bodyred {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 17px;
+	line-height: 25px;
+	color: #FFFFFF;
+}
